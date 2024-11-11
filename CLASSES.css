@@ -1,0 +1,23 @@
+table, th, td{
+    border: 1px solid black;
+    background-color:Yellow
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{text-align: center;}
+h3{text-align: center;}
+
+
+
+
+body{
+    background-image: url("https://krmiller.com/wp-content/uploads/2022/05/John-Hancock-HS_17.jpg"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
